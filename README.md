@@ -7,8 +7,8 @@ All generally used cryptography processes codes.
 ## Key Features:
 - Easy to understand.
 - Commented-out wherever needed.
-- .
-- Crash-bug free upto max-extent.
+- Meaningful variable names.
+- Good Code Quality.
  
  
 ## Find this repository useful? :heart:
